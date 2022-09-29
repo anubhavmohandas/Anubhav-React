@@ -1,0 +1,12 @@
+body{
+    margin: auto;
+}
+
+button{
+    border:none;
+    padding: 15px;
+    /* background-color: rgb(180, 122, 75); */
+    color: #fff;
+    font-weight: 500;
+    cursor: pointer;
+}
